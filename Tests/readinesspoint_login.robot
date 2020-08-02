@@ -17,7 +17,7 @@ Open Browser To Login Page
     ReadinesspointApp.Open Browser To Login Page
 
 Valid Login
-    [Tags]  Smoke Login
+    [Tags]  Smoke
     ReadinesspointApp.Enter Username
     ReadinesspointApp.Enter Password
     ReadinesspointApp.Submit Credentials
