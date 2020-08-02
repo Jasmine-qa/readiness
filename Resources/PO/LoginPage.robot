@@ -16,7 +16,7 @@ Enter Password
 
 Submit Credentials
     Click button  xpath=/html/body/app/div/div[2]/div/button
-    Wait until page contains  COVID-19
+    Wait until page contains  Create New Project
 
 Dashboard Should Be Displayed
     Location should be  ${DASHBOARD URL}
