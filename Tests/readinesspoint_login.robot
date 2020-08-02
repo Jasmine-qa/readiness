@@ -13,6 +13,7 @@ ${DASHBOARD URL} =  https://readinesspointqa.azurewebsites.net/first-digital/cov
 *** Test Cases ***
 
 Open Browser To Login Page
+    [Tags]  Other
     ReadinesspointApp.Open Browser To Login Page
 
 Valid Login
