@@ -13,11 +13,11 @@ ${DASHBOARD URL} =  https://readinesspointqa.azurewebsites.net/first-digital/cov
 *** Test Cases ***
 
 Open Browser To Login Page
-    [Tags]  None
+    #[Tags]  None
     ReadinesspointApp.Open Browser To Login Page
 
 Valid Login
-    [Tags]  Smoke
+    #[Tags]  Smoke
     ReadinesspointApp.Enter Username
     ReadinesspointApp.Enter Password
     ReadinesspointApp.Submit Credentials
